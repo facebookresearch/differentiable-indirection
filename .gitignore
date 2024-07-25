@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Training results
+disneyFit/out/**
+imageCompression/out/**
+
+# Trainging/evaluation inputs
+disneyFit/in/**
+imageCompression/in/**
